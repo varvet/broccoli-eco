@@ -1,0 +1,18 @@
+{
+  "name": "broccoli-eco",
+  "version": "0.1.0",
+  "description": "Broccoli plugin which compiles ECO templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "broccoli-plugin"
+  ],
+  "author": "Nicklas Ramhöj and Jonas Nicklas",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-filter": "^0.1.6",
+    "eco": "^1.1.0-rc-3"
+  }
+}
