@@ -2,6 +2,9 @@
 
 Broccoli filter which compiles [Eco](https://github.com/sstephenson/eco) templates.
 
+Note: this currently compiles the template into a CJS module, PRs welcome to allow
+other module formats.
+
 ## Usage
 
 ``` js
